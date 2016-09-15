@@ -7,7 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\test_ged</sprite>
-    <sprite>sprites\WANK_MEMES_M8</sprite>
+    <sprite>sprites\gg_no_re</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
