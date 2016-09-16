@@ -9,9 +9,16 @@
     <sprite>sprites\test_ged</sprite>
     <sprite>sprites\gg_no_re</sprite>
     <sprite>sprites\spr_Spiller</sprite>
+    <sprite>sprites\spr_3</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\Obj_spiller</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_one</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
