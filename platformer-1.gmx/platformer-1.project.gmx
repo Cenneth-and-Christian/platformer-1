@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+<<<<<<< HEAD
     <sprite>sprites\Cenneth_s_sprite</sprite>
     <sprite>sprites\spr_wall</sprite>
   </sprites>
@@ -18,6 +19,20 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
+=======
+    <sprite>sprites\test_ged</sprite>
+    <sprite>sprites\gg_no_re</sprite>
+    <sprite>sprites\spr_Spiller</sprite>
+    <sprite>sprites\spr_3</sprite>
+  </sprites>
+  <backgrounds name="background"/>
+  <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\Obj_spiller</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_one</room>
+>>>>>>> origin/master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
